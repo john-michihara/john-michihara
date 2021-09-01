@@ -1,5 +1,5 @@
 ### Hi, I'm John!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-michihara&theme=synthwave&show_icons=true&count_private=true “GitHub Stats”)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-michihara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
