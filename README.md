@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-michihara-305316167/)
 [![Angellist Badge](https://img.shields.io/badge/-AngelList-0e76a8?style=flat-square&logo=Angellist&logoColor=white)](https://angel.co/u/john-michihara/)
-[![Website Badge](https://img.shields.io/badge/Website-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://john-michihara.github.io/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://john-michihara.github.io/)
 
 
 <p>
