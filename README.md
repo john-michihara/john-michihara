@@ -9,7 +9,7 @@
 - I recently graduated from [App Academy](https://www.appacademy.io/)'s intensive 6-month software engineering course
 - I'm currently learning data structures and algorithms
 - I enjoy building applications with React
-- I like hiking, playing the saxophone, and video games
+- I like hiking, playing the saxophone, going to the beach, and video games
 
 ### Github Stats:
 <p>
