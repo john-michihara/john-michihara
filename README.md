@@ -7,7 +7,7 @@
 
 ### About me:
 - I recently graduated from [App Academy](https://www.appacademy.io/)'s intensive 6-month software engineering course
-- I'm currently learning data structures and algorithms
+- I'm currently learning Typescript and data structures/algorithms
 - I enjoy building applications with React
 - I like hiking, playing the saxophone, going to the beach, and video games
 
