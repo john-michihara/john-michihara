@@ -5,6 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://john-michihara.github.io/)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-michihara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-michihara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-michihara&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
