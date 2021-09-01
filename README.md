@@ -5,6 +5,12 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://john-michihara.github.io/)
 
 
+### About me:
+- I recently graduated from [App Academy](https://www.appacademy.io/)'s intensive 6-month software engineering course
+- I'm currently learning data structures and algorithms
+- I enjoy building applications with React
+- I like hiking, playing the saxophone, and video games
+
 ### Github Stats:
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-michihara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
